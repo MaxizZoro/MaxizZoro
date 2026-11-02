@@ -1,7 +1,7 @@
 # $${\color{red}Maxiz}$$
 
 Hi there 👋 
-My name is Mohamed Elkharraz, and I'm a Software Engineer with a CS degree from Wright State University.
+My name is $${\color{red}Mohamed\space Elkharraz}$$, and I'm a Software Engineer with a CS degree from Wright State University.
 
 ---
 ### Languages
