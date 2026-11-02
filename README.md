@@ -1,8 +1,33 @@
-# About me
+# $${\color{red}Maxiz}$$
 
+Hi there 👋 
+My name is Mohamed Elkharraz, and I'm a Software Engineer with a CS degree from Wright State University.
 
--  I'm trying to improve at Python and Java while adding more languages to learn.
--  I’m currently learning the command line and data structures using C++.
--  I’m looking for help with any Data Science topics.
+---
+### Languages
+
+[![Java](https://img.shields.io/badge/Java-555555.svg?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA3NEJEIiBkPSJNNDcuNjE3IDk4LjEycy00Ljc2NyAyLjc3NCAzLjM5NyAzLjcxYzkuODkyIDEuMTMgMTQuOTQ3Ljk2OCAyNS44NDUtMS4wOTIgMCAwIDIuODcxIDEuNzk1IDYuODczIDMuMzUxLTI0LjQzOSAxMC40Ny01NS4zMDgtLjYwNy0zNi4xMTUtNS45Njl6bS0yLjk4OC0xMy42NjVzLTUuMzQ4IDMuOTU5IDIuODIzIDQuODA1YzEwLjU2NyAxLjA5MSAxOC45MSAxLjE4IDMzLjM1NC0xLjYgMCAwIDEuOTkzIDIuMDI1IDUuMTMyIDMuMTMxLTI5LjU0MiA4LjY0LTYyLjQ0Ni42OC00MS4zMDktNi4zMzZ6Ii8+PHBhdGggZmlsbD0iI0VBMkQyRSIgZD0iTTY5LjgwMiA2MS4yNzFjNi4wMjUgNi45MzUtMS41OCAxMy4xNy0xLjU4IDEzLjE3czE1LjI4OS03Ljg5MSA4LjI2OS0xNy43NzdjLTYuNTU5LTkuMjE1LTExLjU4Ny0xMy43OTIgMTUuNjM1LTI5LjU4IDAgLjAwMS00Mi43MzEgMTAuNjctMjIuMzI0IDM0LjE4N3oiLz48cGF0aCBmaWxsPSIjMDA3NEJEIiBkPSJNMTAyLjEyMyAxMDguMjI5czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTQuMTcxLTQuNDUxLTEuOTM4IDMuODk5LTQuNjI1IDYuNTI2LTUuMTkyIDIuNzM5LS41OTMgNC4zMDMtLjQ4NSA0LjMwMy0uNDg1LTQuOTUzLTMuNDg3LTMyLjAxMyA2Ljg1LTEzLjc0MyA5LjgxNSA0OS44MjEgOC4wNzYgOTAuODE3LTMuNjM3IDc3Ljg5Ni05LjQ2OHpNNDkuOTEyIDcwLjI5NHMtMjIuNjg2IDUuMzg5LTguMDMzIDcuMzQ4YzYuMTg4LjgyOCAxOC41MTguNjM4IDMwLjAxMS0uMzI2IDkuMzktLjc4OSAxOC44MTMtMi40NzQgMTguODEzLTIuNDc0cy0zLjMwOCAxLjQxOS01LjcwNCAzLjA1M2MtMjMuMDQyIDYuMDYxLTY3LjU0NCAzLjIzOC01NC43MzEtMi45NTggMTAuODMyLTUuMjM5IDE5LjY0NC00LjY0MyAxOS42NDQtNC42NDN6bTQwLjY5NyAyMi43NDdjMjMuNDIxLTEyLjE2NyAxMi41OTEtMjMuODYgNS4wMzItMjIuMjg1LTEuODQ4LjM4NS0yLjY3Ny43Mi0yLjY3Ny43MnMuNjg4LTEuMDc5IDItMS41NDNjMTQuOTUzLTUuMjU1IDI2LjQ1MSAxNS41MDMtNC44MjMgMjMuNzI1IDAtLjAwMi4zNTktLjMyNy40NjgtLjYxN3oiLz48cGF0aCBmaWxsPSIjRUEyRDJFIiBkPSJNNzYuNDkxIDEuNTg3Uzg5LjQ1OSAxNC41NjMgNjQuMTg4IDM0LjUxYy0yMC4yNjYgMTYuMDA2LTQuNjIxIDI1LjEzLS4wMDcgMzUuNTU5LTExLjgzMS0xMC42NzMtMjAuNTA5LTIwLjA3LTE0LjY4OC0yOC44MTVDNTguMDQxIDI4LjQyIDgxLjcyMiAyMi4xOTUgNzYuNDkxIDEuNTg3eiIvPjxwYXRoIGZpbGw9IiMwMDc0QkQiIGQ9Ik01Mi4yMTQgMTI2LjAyMWMyMi40NzYgMS40MzcgNTctLjggNTcuODE3LTExLjQzNiAwIDAtMS41NzEgNC4wMzItMTguNTc3IDcuMjMxLTE5LjE4NiAzLjYxMi00Mi44NTQgMy4xOTEtNTYuODg3Ljg3NCAwIC4wMDEgMi44NzUgMi4zODEgMTcuNjQ3IDMuMzMxeiIvPjwvc3ZnPg==)]()
+[![Python](https://img.shields.io/badge/Python-555555.svg?style=for-the-badge&logo=python)]()
+[![C++](https://img.shields.io/badge/C++-555555.svg?style=for-the-badge&logo=cplusplus)]()
+[![C](https://img.shields.io/badge/-555555.svg?style=for-the-badge&logo=c)]()
+[![TS](https://img.shields.io/badge/Typescript-555555.svg?style=for-the-badge&logo=typescript)]()
+[![JS](https://img.shields.io/badge/Javascript-555555.svg?style=for-the-badge&logo=javascript)]()
+[![Bash](https://img.shields.io/badge/Bash-555555.svg?style=for-the-badge&logo=bash)]()
+
+### Tools and Frameworks
+
+[![Git](https://img.shields.io/badge/Git-555555.svg?style=for-the-badge&logo=git)]()
+[![Github](https://img.shields.io/badge/Github-555555.svg?style=for-the-badge&logo=github)]()
+[![AWS](https://img.shields.io/badge/AWS-555555.svg?style=for-the-badge&logo=)]()
+[![Unity](https://img.shields.io/badge/Unity-555555.svg?style=for-the-badge&logo=unity)]()
+[![React](https://img.shields.io/badge/React-555555.svg?style=for-the-badge&logo=react)]()
+[![Vite](https://img.shields.io/badge/Vite-555555.svg?style=for-the-badge&logo=vite)]()
+
+### Operating Systems
+
+[![Mint](https://img.shields.io/badge/Mint-555555.svg?style=for-the-badge&logo=LinuxMint)]()
+[![MacOS](https://img.shields.io/badge/MacOS-555555.svg?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKYXJpYS1sYWJlbD0iRmluZGVyIiByb2xlPSJpbWciCnZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdAp3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIKcng9IjE1JSIKZmlsbD0idXJsKCNhKSIvPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDI9IjAiIHkxPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxZTczZjIiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxOWQzZmQiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iYiIgeDI9IjAiIHkxPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNkYmU5ZjQiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmN2Y2ZjYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cGF0aCBmaWxsPSJ1cmwoI2IpIiBkPSJNNDM1LjIgMEgyNzQuNGMtMjEuMiA0OS4yLTU5LjIgMTI5LjYtNjAuOCAyODMuNGE5LjkgOS45IDAgMDAxMCAxMC4xaDU4LjdhOS45IDkuOSAwIDAxOS45IDEwLjJBOTMzLjMgOTMzLjMgMCAwMDMxMS4zIDUxMmgxMjMuOWE3Ni44IDc2LjggMCAwMDc2LjgtNzYuOFY3Ni44QTc2LjggNzYuOCAwIDAwNDM1LjIgMHoiLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyMCIgZD0iTTM3MSAxNDl2MzRtLTIyOS0zNHYzNG0yNjMuNCAxNDcuMmEyMTUuMiAyMTUuMiAwIDAxLTI5OC44IDAiLz48L3N2Zz4=)]()
+[![Windows](https://img.shields.io/badge/Windows-555555.svg?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDBBREVGIiBkPSJNMTI2IDEuNjM3bC02NyA5LjgzNHY0OS44MzFsNjctLjUzNHpNMS42NDcgNjYuNzA5bC4wMDMgNDIuNDA0IDUwLjc5MSA2Ljk4My0uMDQtNDkuMDU3em01Ni44Mi42OGwuMDk0IDQ5LjQ2NSA2Ny4zNzYgOS41MDkuMDE2LTU4Ljg2M3pNMS42MSAxOS4yOTdsLjA0NyA0Mi4zODMgNTAuNzkxLS4yODktLjAyMy00OS4wMTZ6Ii8+PC9zdmc+)]()
+
 
 
