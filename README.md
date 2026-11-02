@@ -18,8 +18,7 @@ My name is Mohamed Elkharraz, and I'm a Software Engineer with a CS degree from 
 
 [![Git](https://img.shields.io/badge/Git-555555.svg?style=for-the-badge&logo=git)]()
 [![Github](https://img.shields.io/badge/Github-555555.svg?style=for-the-badge&logo=github)]()
-[![AWS](https://img.shields.io/badge/AWS-555555.svg?style=for-the-badge&logo=)]()
-[![Unity](https://img.shields.io/badge/Unity-555555.svg?style=for-the-badge&logo=unity)]()
+[![AWS](https://img.shields.io/badge/AWS-555555.svg?style=for-the-badge&logo=AWS)]()
 [![React](https://img.shields.io/badge/React-555555.svg?style=for-the-badge&logo=react)]()
 [![Vite](https://img.shields.io/badge/Vite-555555.svg?style=for-the-badge&logo=vite)]()
 
